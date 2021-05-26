@@ -1,4 +1,8 @@
 # ML-5-Running-Walking-Prediction-using-Sensor_Data
+
+![image](https://user-images.githubusercontent.com/77496539/119608676-f7718480-be13-11eb-999a-373edb7fcba0.png)
+
+
 This project aims to detect whether the person is running or walking based on the sensor data collected from iOS device.
 
 Currently, the dataset contains a single file which represents 88588 sensor data samples collected from accelerometer and gyroscope from iPhone 5c in 10 seconds interval and ~5.4/second frequency. This data is represented by following columns (each column contains sensor data for one of the sensor's axes):
