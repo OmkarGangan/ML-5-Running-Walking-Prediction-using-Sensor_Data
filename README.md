@@ -1,6 +1,6 @@
 # ML-5-Running-Walking-Prediction-using-Sensor_Data
 
-![image](https://user-images.githubusercontent.com/77496539/119608676-f7718480-be13-11eb-999a-373edb7fcba0.png)
+![image](https://user-images.githubusercontent.com/77496539/119608876-4fa88680-be14-11eb-99d6-7da6a613b8f2.png)
 
 
 This project aims to detect whether the person is running or walking based on the sensor data collected from iOS device.
@@ -26,3 +26,5 @@ Apart of that, the dataset contains "wrist" column which represents the wrist wh
 Additionally, the dataset contains "date", "time" and "username" columns which provide information about the exact date, time and user which collected these measurements.
 
 Data set is downloaded from Kaggle: https://www.kaggle.com/vmalyi/run-or-walk
+
+Web app link: https://walking-running-predictor.herokuapp.com/
